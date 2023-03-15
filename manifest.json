@@ -6,6 +6,7 @@
   "dependencies": [
     "Azumatt-AzuClock-1.0.0",
     "Azumatt-AzuHoverStats-1.0.6",
+    "ComfyMods-EulersRuler-1.4.0",
     "thedefside-BetterUI_Reforged-2.4.2",
     "denikson-BepInExPack_Valheim-5.4.2100"
   ]

@@ -13,16 +13,25 @@ The credits for the mods selected for this mod pack go back to the original mod 
 * Advanced UI editing via "Better UI" mod
     * I did pre-edit the UI to get a better display of health and stamina, if you don't like it this way, you can change it
     * Note: I changed the key for editing the UI to "N", so press "ESC" and then "N" to be able to edit
+* Building UI improvements by the "Euler's Ruler", but just using health and stability from that one
 
 ## Change log
 
 * 1.0.0 -> initial creation
 
-## Contact
+# Contact
 
-* https://github.com/FelixReuthlinger/MistlandsSinglePlayer
+* https://github.com/FelixReuthlinger/valheim-ui-tweaks
 * Discord: Flux#0062 (you can find me around some of the Valheim modding discords, too)
+
+## Other mod packs
+
+I do also publish a selection of other mod packs:
+
+* https://valheim.thunderstore.io/package/FixItFelix/SimplePlaystyleEnchancements/
+* https://valheim.thunderstore.io/package/FixItFelix/SinglePlayer_ModPack/
+* https://valheim.thunderstore.io/package/FixItFelix/JothorHeim/ 
 
 ## Attributions
 
-* icon -> https://www.flaticon.com/free-icon/man_9781754?term=single&page=1&position=4&origin=search&related_id=9781754 
+* icon -> https://www.flaticon.com/free-icon/design_9172978?term=ui&page=1&position=1&origin=search&related_id=9172978
