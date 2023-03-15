@@ -1,7 +1,7 @@
 {
   "name": "UserInterfaceTweaks",
   "description": "My personal selection of mods I would never want to miss - UI tweaks",
-  "version_number": "1.0.0",
+  "version_number": "1.0.1",
   "website_url": "https://github.com/FelixReuthlinger/valheim-ui-tweaks",
   "dependencies": [
     "Azumatt-AzuClock-1.0.0",

@@ -12,11 +12,12 @@ The credits for the mods selected for this mod pack go back to the original mod 
 * Hovering over things shows stats or contents (for chests)
 * Advanced UI editing via "Better UI" mod
     * I did pre-edit the UI to get a better display of health and stamina, if you don't like it this way, you can change it
-    * Note: I changed the key for editing the UI to "N", so press "ESC" and then "N" to be able to edit
+    * Note: I changed the key for editing the UI to "*", so press "ESC" and then "*" to be able to edit
 * Building UI improvements by the "Euler's Ruler", but just using health and stability from that one
 
 ## Change log
 
+* 1.0.1 -> deactivated some better ui skill settings, deactivated some euler's ruler settings
 * 1.0.0 -> initial creation
 
 # Contact
