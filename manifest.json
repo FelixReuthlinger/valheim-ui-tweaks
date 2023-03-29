@@ -1,13 +1,13 @@
 {
   "name": "UserInterfaceTweaks",
   "description": "My personal selection of mods I would never want to miss - UI tweaks",
-  "version_number": "1.0.2",
+  "version_number": "1.0.3",
   "website_url": "https://github.com/FelixReuthlinger/valheim-ui-tweaks",
   "dependencies": [
     "Azumatt-AzuClock-1.0.0",
     "Azumatt-AzuHoverStats-1.0.6",
     "ComfyMods-EulersRuler-1.4.0",
     "thedefside-BetterUI_Reforged-2.4.2",
-    "denikson-BepInExPack_Valheim-5.4.2100"
+    "denikson-BepInExPack_Valheim-5.4.2101"
   ]
 }

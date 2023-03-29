@@ -15,8 +15,9 @@ The credits for the mods selected for this mod pack go back to the original mod 
     * Note: I changed the key for editing the UI to "+", so press "ESC" and then "+" to be able to edit
 * Building UI improvements by the "Euler's Ruler", but just using health and stability from that one
 
-## Change log
+## Change log 
 
+* 1.0.3 -> updated for game version 0.214.304
 * 1.0.2 -> changed key again
 * 1.0.1 -> deactivated some better ui skill settings, deactivated some euler's ruler settings
 * 1.0.0 -> initial creation
